@@ -1,3 +1,4 @@
-# teaching
-
-i am trying teach them how to use github
+# What it is 
+# A Screenshot
+# Live link 
+# how to run it 
